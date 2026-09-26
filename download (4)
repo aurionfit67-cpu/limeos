@@ -1,0 +1,12 @@
+node_modules
+.pnpm-store
+dist
+.env
+.env.local
+.env.*.local
+.manus-logs
+pdf-preview
+coverage
+*.log
+scripts
+fix-*.mjs
